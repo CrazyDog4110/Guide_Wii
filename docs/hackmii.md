@@ -24,6 +24,12 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
 1. Insert the SD/USB into your Wii, and launch the `hackmii_installer_v1.2` app from the Homebrew Channel.
     * The app will not have an icon.
 
+::: info
+
+If `Press (1) to continue` does not show up after around 30 seconds, downloading [HackMii Installer v1.0](https://bootmii.org/download/) may help.
+
+:::
+
 ::: tip
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
@@ -65,6 +71,16 @@ If `Press (1) to continue` does not show up after about 30 seconds, downloading 
 
 :::
 
+::: tip
+
+[Continue to Homebrew Channel and BootMii Installation](hbc)
+
+Now that you are in the HackMii Installer, you will be able to install the Homebrew Channel, as well as BootMii depending on your console.
+
+:::
+
+---
+
 ## Relaunching via BootMii
 
 ### Requirements
@@ -96,7 +112,7 @@ If you can already access BootMii via IOS, it is generally easier to follow the 
 1. Navigate to the SD card icon and press `RESET` to enter the SD card navigation menu.
 1. Navigate to `bootmini.elf` and press `RESET` to load the HackMii installer.
 
-::: tip
+::: info
 
 If `Press (1) to continue` does not show up after around 30 seconds, downloading [HackMii Installer v1.0](https://bootmii.org/download/) may help.
 

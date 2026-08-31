@@ -79,8 +79,6 @@ Now that you are in the HackMii Installer, you will be able to install the Homeb
 
 :::
 
----
-
 ## Relaunching via BootMii
 
 ### Requirements
